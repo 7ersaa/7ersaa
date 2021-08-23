@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/877208320157581402/879273393264930826/video0-_1_.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Bersaa ,  I live in Lyon 👨‍💻 I have started development since May 2021 🚀</div>  
   
 
@@ -102,3 +97,7 @@ J'sors d'un problème, y'en a 400 qui viennent.
 <br />
 
 ----
+
+<div align="center">
+<img src="https://c.tenor.com/iNpoS6srIXkAAAAd/waneella-pixel-art.gif" align="center" style="width: 100%" />
+</div>  
