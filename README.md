@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/877208320157581402/879273393264930826/video0-_1_.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Bersaa ,  I live in Lyon 👨‍💻 I have started development since May 2021 🚀</div>  
   
 
@@ -83,9 +78,7 @@
 ## Recent Blog Posts  
 Ouais j'suis sur les nerfs, gros teh pour oublier les pertes
 J'sors d'un problème, y'en a 400 qui viennent.  
-  
-
-![](https://cdn.discordapp.com/attachments/877208320157581402/879270825990180884/video0.gif)  
+ 
   
 
 <br/>  
@@ -101,4 +94,6 @@ J'sors d'un problème, y'en a 400 qui viennent.
 <div align="center"></div>
 <br />
 
-----
+---
+
+![Banner](https://i.pinimg.com/originals/8a/78/53/8a7853a39f37df16dc5ccff619e6c654.gif)
