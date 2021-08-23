@@ -102,4 +102,3 @@ J'sors d'un problème, y'en a 400 qui viennent.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
