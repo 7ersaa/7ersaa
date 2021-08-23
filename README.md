@@ -55,7 +55,7 @@
 <br/>  
 
 
-## Connect with me  
+## Mes Réseaux  
 <div align="center">
 <a href="https://github.com/Bersaa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -75,7 +75,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Statut  
 Ouais j'suis sur les nerfs, gros teh pour oublier les pertes
 J'sors d'un problème, y'en a 400 qui viennent.  
  
