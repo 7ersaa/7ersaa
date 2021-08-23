@@ -96,4 +96,4 @@ J'sors d'un problème, y'en a 400 qui viennent.
 
 ---
 
-![Banner](https://i.pinimg.com/originals/8a/78/53/8a7853a39f37df16dc5ccff619e6c654.gif)
+![Banner](https://images-ext-2.discordapp.net/external/09nAd5ICBv3MflGkqiiL7u5Ly4SOBh7mAdVnvbQe2xE/https/i.gifer.com/origin/40/40c228ec96a4d10bb5400bb8b2450618.gif)
