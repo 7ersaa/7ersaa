@@ -6,7 +6,7 @@
 ### <div align="center">I'm Bersaa ,  I live in Lyon 👨‍💻 I have started development since May 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [](https://github.com/bersaa)  
   
 
 - 🌱 I’m currently learning Python & CSS  
